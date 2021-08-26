@@ -1,6 +1,10 @@
 {
     "files.associations": {
         "string.h": "c",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "math.h": "c",
+        "__config": "c",
+        "cmath": "c",
+        "__locale": "c"
     }
 }
